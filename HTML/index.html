@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">		<!--Langue = Français -->
+<head>					
+    <meta charset="UTF-8">			<!--Type d'encodage -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Association Sportive du Lycée</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Association Sportive du Lycée</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">À propos</a></li>
+                <li><a href="#activities">Activités</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>À propos de l'association</h2>
+        <p>Nous sommes une association sportive dédiée aux élèves du lycée.</p>
+    </section>
+    
+    <section id="activities">
+        <h2>Nos Activités</h2>
+        <ul>
+            <li>Football</li>
+            <li>Basketball</li>
+            <li>Natation</li>
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>Contactez-nous</h2>
+        <form id="contact-form">
+            <label for="name">Nom:</label>
+            <input type="text" id="name" name="name" required>
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            
+            <button type="submit">Envoyer</button>
+        </form>
+    </section>
+    
+    <script src="script.js"></script>
+</body>
+</html>
