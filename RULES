@@ -1,1 +1,67 @@
+1. Contexte et Objectifs
+  Contexte :
+    - Dans le cadre de notre cours de NSI, chaque élève concevra et développera un site web en utilisant les langages HTML, CSS et JavaScript.
+  Objectifs :
+    - Mettre en pratique les compétences en développement web.
+    - Créer un site complet et fonctionnel présentant un contenu choisi parmi les sujets proposés par le professeur.
+    - Intégrer une fonctionnalité interactive en JavaScript, codée entièrement à la main.
+
+2. Périmètre du Projet
+    - Le site devra comporter au minimum trois pages et pourra être enrichi de pages supplémentaires.
+    - Le site doit être le plus possible responsive, c’est-à-dire adapté aux différents formats d’écran (ordinateurs, tablettes, smartphones).
+    - L’hébergement du site se fera sur la plateforme gratuite GitHub Pages.
+
+3. Contraintes Techniques
+  Technologies imposées :
+    - HTML5 pour la structure du contenu.
+    - CSS3 pour la mise en forme et le design.
+    - JavaScript pour ajouter des fonctionnalités interactives.
+  Code JavaScript :
+    - Vous devez développer vous-mêmes au moins une fonctionnalité en JavaScript (exemples : diaporama interactif, formulaire de contact avec validation, menu déroulant dynamique, etc.).
+    - Le code JavaScript devra être séparé du HTML (pas d’inclusion inline) et organisé dans des fichiers externes.
+  Organisation du code :
+    - Utiliser une structure de dossiers claire (fichiers HTML, CSS et JavaScript distinct et dossier séparé pour les médias).
+    - Un fichier HTML par page, un seul fichier CSS pour le site, un seul fichier JavaScript pour le site)
+
+4. Contraintes Fonctionnelles
+  Navigation :
+    - Le site doit offrir une navigation intuitive avec des menus clairs et une structure cohérente.
+  Interactivité :
+    - Intégrer au moins une fonctionnalité interactive développée en JavaScript, fonctionnelle sur les principaux navigateurs (Chrome, Firefox, etc.).
+  Performance :
+    - Le temps de chargement du site devra rester raisonnable et optimisé.
+
+5. Contraintes Graphiques et Ergonomiques
+  Design :
+    - Choix d’un design harmonieux et cohérent en termes de typographie, couleurs et mise en page.
+    - Respect des principes d’accessibilité (bon contraste, alternatives textuelles pour les images, navigation clavier, etc.).
+  Ergonomie :
+    - Veiller à ce que l’interface soit claire, lisible et facile à utiliser pour l’utilisateur final.
+
+6. Livrables
+  Code Source :
+    - Fichiers HTML, CSS, JavaScript et ressources médias (images, vidéos, etc.) depuis GitHub Pages. Le professeur doit avoir accès à votre GitHub Pages.
+  Documentation :
+    - Une vidéo de présentation de votre site web (capture vidéo de votre site web avec votre voix commentant le fonctionnement et les choix d’architecture effectué).
+  Déploiement :
+    - Lien vers le site.
+
+7. Planning et Modalités d’Évaluation
+  Planning :
+    - Des points de suivi réguliers permettront de valider l’avancement du projet.
+    - Le site web devra être terminé pour la séance de la rentrée des vacances de Pâques.
+  Critères d’Évaluation :
+    - Qualité du code et respect des bonnes pratiques.
+    - Originalité et fonctionnalité de la partie JavaScript.
+    - Ergonomie, design et respect des contraintes techniques.
+    - Qualité de la documentation.
+    - Respect des délais et du cahier des charges.
+8. Remarques Finales
+  Originalité et collaboration :
+    - Chaque élève doit réaliser le code JavaScript de manière autonome. Le travail collaboratif est encouragé, mais la contribution individuelle doit être clairement identifiée.
+  Pérennité du Site :
+    - Un suivi ou une passation (de l’élève en terminale vers un élève de première, par exemple) pourra être mis en place pour garantir la continuité du contenu du site.
+  Autres :
+    - L’utilisation de bibliothèques ou frameworks légers est autorisé uniquement si justifié et validé par l’enseignant.
+    - Respecter les droits d’auteur pour tout contenu externe utilisé (images, vidéos, etc.).
 
